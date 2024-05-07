@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-container{
+    height: 100vh
+}
+
+.custom-input{
+    width: 300px;
+    font-size: 14px;
+    
+}
